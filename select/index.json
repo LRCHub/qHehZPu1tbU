@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "禍つ闇に詠う",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2025-12-02T08:50:44.969307Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "禍つ闇に詠う",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_禍つ闇に詠う_ELFENSJóN.txt"
+    }
+  ]
+}
